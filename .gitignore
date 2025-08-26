@@ -48,3 +48,8 @@ Temporary Items
 
 # IDE
 .idea
+
+# custom
+__pycache__/
+*.py[cod]
+*$py.class
